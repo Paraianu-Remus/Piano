@@ -7,4 +7,5 @@
 ## How to play
 
 Use z, x, c, v, b, n and m for White Keys
+
 Use s, d, g, h and j for Black Keys
