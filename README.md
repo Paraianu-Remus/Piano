@@ -9,3 +9,5 @@
 Use z, x, c, v, b, n and m for White Keys
 
 Use s, d, g, h and j for Black Keys
+
+Press Record button to start recording your song then press it again to stop recording. Play button will appear after you recorded your song.
